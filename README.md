@@ -1,6 +1,6 @@
 # GameBoy Color Overlay
 
-![My Image](ow.jpg) ![My Image](ow2.jpg) ![My Image](ow3.jpg)
+![My Image](ow.jpg)
 
 This is an updated version of the "Big" version of my GameBoy Color overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
 
