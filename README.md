@@ -4,7 +4,7 @@
 
 This is an updated version of the "Big" version of my GameBoy Color overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
 
-I've updated it for modern 21:9 (2400x1080) screen Android devices and added animation to all the buttons.
+I've updated it for modern 20:9 (2400x1080) screen Android devices and added animation to all the buttons.
 
 I'm open to suggestions!
 
@@ -41,7 +41,7 @@ I'm open to suggestions!
 <b>5.</b> Play!
 
 <b>NOTE:</b>
-<b>THESE SETTINGS ARE OPTIMAL FOR 21:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK: CUSTOM ASPECT RATIO (X POSITION), CUSTOM ASPECT RATIO (Y POSITION), (PORTRAIT) OVERLAY ASPECT ADJUSTMENT SETTINGS AND MAYBE OTHERS.</b>
+<b>THESE SETTINGS ARE OPTIMAL FOR 20:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK: CUSTOM ASPECT RATIO (X POSITION), CUSTOM ASPECT RATIO (Y POSITION), (PORTRAIT) OVERLAY ASPECT ADJUSTMENT SETTINGS AND MAYBE OTHERS.</b>
   
 <b>Optional Settings:</b>
   
